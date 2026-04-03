@@ -1,6 +1,6 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+
+tensorchord/python-cache:envd-v1.2.1
+tensorchord/starship:v0.0.1
+tensorchord/horust:v0.2.3
+tensorchord/envd-sshd-from-scratch:v1.2.1
+mambaorg/micromamba:2.0.6
