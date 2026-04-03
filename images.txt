@@ -1,4 +1,4 @@
-tensorchord/python-cache:envd-v1.2.0
+ghcr.io/tensorchord/python-cache:envd-v1.3.1
 tensorchord/starship:v0.0.1
 tensorchord/horust:v0.2.3
 tensorchord/envd-sshd-from-scratch:v1.2.1
